@@ -1,7 +1,9 @@
 # backend_agent
 This is an entire mobile App with  AI embedded in it.
 
-You will notice that there are two folder. 
+You will notice that there are two folder.
+
+  clone the repo: git clone https://github.com/Byadillah/backend__agent.git
 
   1. the lib is the front-end. " we couldn't download the entire app ".
        - Download Flutter
